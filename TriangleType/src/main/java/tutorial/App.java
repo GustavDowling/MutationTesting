@@ -5,6 +5,7 @@ public class App
 {
     public static void main( String[] args )
     {
+	    	System.out.println("Input the 3 sides of the triangle: \n")
 		//Get input of the three sides
 		int side1;
 		int side2;
